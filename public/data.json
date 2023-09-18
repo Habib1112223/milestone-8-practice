@@ -1,0 +1,40 @@
+[
+      {
+        "id": 1,
+        "name": "Basic Membership",
+        "features": [
+          "Access to gym facilities during off-peak hours",
+          "Limited access to group fitness classes",
+          "No personal trainer sessions",
+          "No access to swimming pool",
+          "Discounts at the gym pro shop",
+          "Monthly fitness assessment"
+        ],
+        "price": 29.99
+      },
+      {
+        "id": 2,
+        "name": "Premium Membership",
+        "features": [
+          "Unlimited access to gym facilities",
+          "Access to all group fitness classes",
+          "2 personal trainer sessions per month",
+          "Access to swimming pool",
+          "Discounts at the gym pro shop"
+          
+        ],
+        "price": 59.99
+      },
+      {
+        "id": 3,
+        "name": "Family Membership",
+        "features": [
+          "Unlimited access to gym facilities for 2 adults and 2 children",
+          "Access to all group fitness classes for the family",
+          "4 personal trainer sessions per month (2 for each adult)"
+          
+          
+        ],
+        "price": 99.99
+      }
+    ]
